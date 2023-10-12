@@ -1,0 +1,11 @@
+/.metadata
+/target
+/bin
+/.settings
+/mo_od
+*.classpath
+*.project
+*.springBeans
+*.zip
+*.xml
+
